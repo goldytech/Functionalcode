@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalCode", "FunctionalCode\FunctionalCode.csproj", "{92D67306-A0EF-401E-A4F6-5BBEA7D759AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92D67306-A0EF-401E-A4F6-5BBEA7D759AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92D67306-A0EF-401E-A4F6-5BBEA7D759AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92D67306-A0EF-401E-A4F6-5BBEA7D759AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92D67306-A0EF-401E-A4F6-5BBEA7D759AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
